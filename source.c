@@ -1,6 +1,6 @@
 #include QMK_KEYBOARD_H
 
-enum custom_keycodes { SWAP = SAFE_RANGE };
+enum custom_keycodes { SW_WIN = SAFE_RANGE };
 
 bool sw_win_active = false;
 
@@ -30,7 +30,7 @@ void update_swapper(
 }
 
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
-  update_swapper(&sw_win_active, KC_LGUI, KC_TAB, SWAP, keycode, record);
+  update_swapper(&sw_win_active, KC_LGUI, KC_TAB, SW_WIN, keycode, record);
 
   switch (keycode) {
   default:
