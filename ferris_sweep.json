@@ -26,7 +26,7 @@
       "RGUI_T(KC_J)",
       "RALT_T(KC_K)",
       "RSFT_T(KC_L)",
-      "RCTL(KC_P)",
+      "RCTL_T(KC_QUOT)",
       "KC_Z",
       "KC_X",
       "KC_C",
