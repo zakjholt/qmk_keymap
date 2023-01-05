@@ -47,12 +47,12 @@
       "KC_NO",
       "KC_VOLD",
       "KC_VOLU",
-      "TG(4)",
+      "KC_NO",
       "KC_HOME",
       "KC_PGDN",
       "KC_PGUP",
       "KC_END",
-      "KC_NO",
+      "QK_BOOT",
       "OSM(MOD_LCTL)",
       "OSM(MOD_LSFT)",
       "OSM(MOD_LALT)",
@@ -75,7 +75,7 @@
       "KC_DEL",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_ENT",
+      "KC_TRNS",
       "MO(3)"
     ],
     [
@@ -119,7 +119,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "DF(4)",
       "KC_NO",
       "KC_P7",
       "KC_P8",
@@ -129,7 +129,7 @@
       "OSM(MOD_LSFT)",
       "OSM(MOD_LALT)",
       "OSM(MOD_LGUI)",
-      "KC_F11",
+      "KC_NO",
       "KC_NO",
       "KC_P4",
       "KC_P5",
@@ -155,7 +155,7 @@
       "KC_WH_D",
       "KC_MS_U",
       "KC_WH_U",
-      "KC_TRNS",
+      "DF(0)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -189,4 +189,5 @@
   ],
   "author": ""
 }
+
 
