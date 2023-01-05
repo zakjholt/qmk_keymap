@@ -80,7 +80,7 @@
     ],
     [
       "KC_TAB",
-      "SW_WIN",
+      "KC_NO",
       "SGUI(KC_LCBR)",
       "SGUI(KC_RCBR)",
       "KC_VOLU",
