@@ -37,10 +37,10 @@
       "KC_COMM",
       "KC_DOT",
       "KC_SLSH",
-      "MO(1)",
-      "KC_SPC",
-      "KC_RSFT",
-      "MO(2)"
+      "LT(1,KC_TAB)",
+      "LT(3,KC_SPC)",
+      "KC_BSPC",
+      "LT(2,KC_ENT)"
     ],
     [
       "KC_NO",
@@ -76,7 +76,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "MO(3)"
+      "KC_TRNS"
     ],
     [
       "KC_EXLM",
@@ -109,7 +109,7 @@
       "KC_EQL",
       "KC_PLUS",
       "KC_BSLS",
-      "MO(3)",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS"
@@ -189,5 +189,6 @@
   ],
   "author": ""
 }
+
 
 
