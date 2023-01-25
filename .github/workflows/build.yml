@@ -12,6 +12,7 @@ jobs:
         file:
         - ferris_sweep.json
         - ferris_sweep_seniply.json
+        - callum.json
 # End of json file list
 
     steps:
